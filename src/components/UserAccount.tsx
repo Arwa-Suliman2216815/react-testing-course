@@ -1,5 +1,5 @@
 import { User } from "../entities";
-
+ 
 const UserAccount = ({ user }: { user: User }) => {
   return (
     <>
